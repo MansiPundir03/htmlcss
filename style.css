@@ -55,6 +55,10 @@ nav button{
     margin-left: 10px;
 }
 
+.sign-in:hover{
+    background: #810d13;
+}
+
 .header-content{
     position: absolute;
     top: 50%;
@@ -102,6 +106,10 @@ nav button{
     font-size: 16px;
     cursor: pointer;
     padding: 15px 30px;
+}
+
+.email-signup button:hover{
+    background: #810d13;   
 }
 
 /*------features--------*/
